@@ -1,2 +1,2 @@
-blog
+Paul's blog
 ====
