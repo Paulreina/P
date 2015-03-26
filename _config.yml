@@ -7,10 +7,10 @@ highlighter: pygments
 permalink: /:title.html
 logo: false
 paginate: 15
-baseurl: /P
-domain_name: 'http://we.paulreina.com'
+baseurl: /p
+domain_name: 'http://paulreina.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://we.paulreina.com/P/'
+url:            'http://paulreina.com/p/'
 author:         'Paul chan'
