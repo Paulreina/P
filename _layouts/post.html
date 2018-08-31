@@ -5,14 +5,24 @@ archive: false
 post_class: post-template
 ---
 
-<header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+<!--header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
         <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
     </nav>
-</header>
+</header-->
+<div class="nav">
+    <div class="list">
+        <a href="https://medium.com/@nikkihk" class="nav-item">Nikki</a>
+        <a href="https://www.paulreina.com" class="nav-item">Paul & Reina</a>
+        <a href="/blog/archive.html" class="nav-item">归档</a>
+        <a href="/blog/about.html" class="nav-item">关于</a>
+    </div>
+    <a href="{{ site.baseurl }}" title="{{ site.description }}" class="logo"> <strong>{{ site.name }}</strong></a>
+    <span class="description">{{ site.description }}</span>
+</div>
 
-<main class="content" role="main">
+<main class="content" role="main" style="padding-top:8rem;">
 
     <article class="post">
 
@@ -64,7 +74,7 @@ post_class: post-template
             <!-- If we want to display author's name and bio -->
             {% if site.author %}
                 <figure class="author-image">
-                    <a class="img" href="{{ site.baseurl }}" style="background-image: url(/P/assets/images/profile.png)">
+                    <a class="img" href="{{ site.baseurl }}" style="background-image: url({{ site.baseurl }}/assets/images/profile.png)">
                     <span class="hidden">{{site.author}}'s Picture</span></a>
                 </figure>
                 <section class="author">
@@ -72,7 +82,7 @@ post_class: post-template
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
                     <p> 
-                        Here goes the author description. You might want to place some links too in here
+                        嗨！我叫「Paul Chan」，七零后、技术男、伪果粉，现居杭州。
                     </p>
                 </section>                
             {% endif %}
@@ -81,9 +91,9 @@ post_class: post-template
             {% include share.html %}
             
             <!-- Disqus comments -->
-            {% if page.disqus %}
+            
                 {% include disqus.html %}
-            {% endif %}
+            
             
         </footer>
 

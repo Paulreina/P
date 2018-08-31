@@ -4,38 +4,37 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>{{ site.name }} - {{ site.description }}</title>
+    <title>{{ page.title }} | {{ site.name }}</title>
     <meta name="description" content="{{ site.meta_description}}" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="stylesheet" type="text/css" href="/P/assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="icon" href="http://img7.chztv.com/nikki_favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/typo.css" />
+    <!--link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" /-->
     <!-- Customisation  -->
-    <link rel="stylesheet" type="text/css" href="/P/assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/main.css" />
 
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
     {{ content }}
     <footer class="site-footer clearfix">
-      <section class="copyright">
-        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; 
-              {{date format="YYYY"}} &bull; All rights reserved.
+      <section class="copyright serif typo-small">
+        Written by<a href="{{ site.baseurl }}">Paul Chan,</a> &copy; all right reserved.
       </section>
-      <section class="poweredby">Made with Jekyll using 
-        <a href="http://github.com/rosario/kasper">Kasper theme</a>
+      <section class="poweredby serif typo-small">Made with Jekyll, <a href="http://github.com/rosario/kasper">Paul&Reina Theme</a> Modified by <a href="http://github.com/rosario/kasper">Kasper theme</a>
       </section>
     </footer>
     
-    <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
-    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="/assets/js/index.js"></script>
+    <script type="text/javascript" src="http://cdn.staticfile.org/jquery/2.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/blog/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/blog/assets/js/index.js"></script>
 
     <!-- Google Analytics Tracking code -->
-    <script type="text/javascript">
+    <!--script type="text/javascript">
 
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
@@ -47,6 +46,17 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
-    </script>   
+    </script-->   
+    <!--Baidu Tongji code-->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?c2b4cf1e04ec908f81239270b62310cb";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
 </body>
 </html>

@@ -174,16 +174,21 @@ html {
 }
 
 body {
+    /*
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    font-family: Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
     letter-spacing: 0.01rem;
-    font-size: 1.8rem;
-    line-height: 1.75em;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.8;
     color: #3A4145;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
+    */
+    font: 400 1em/1.5 Avenir,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;
+    color: #555;
 }
 
 ::-moz-selection {
@@ -202,18 +207,20 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "Open Sans", sans-serif;
+    /*font-family: "Open Sans", sans-serif;*/
+    font-family: Helvetica Neue,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;
+    font-weight: 200;
 }
 
 h1 {
-    font-size: 5rem;
-    letter-spacing: -2px;
-    text-indent: -3px;
+    font-size: 3.6rem;
+    /*letter-spacing: -1px;
+    text-indent: -3px;*/
 }
 
 h2 {
     font-size: 3.6rem;
-    letter-spacing: -1px;
+    /*letter-spacing: -1px;*/
 }
 
 h3 {
@@ -245,9 +252,8 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em 0;
-    -webkit-margin-before: 0em;
-    -webkit-margin-after: 0em;
+    /*margin: 0 0 1.75em 0;*/
+    font-size: 1.6em;
 }
 
 ol, ul {
@@ -297,14 +303,16 @@ hr {
 blockquote {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 1.75em 0 1.75em -2.2em;
+    margin: 1.75em 0 1.75em 2em;
     padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+    border-left: #9b9b9b 0.4em solid;
+    color: #9b9b9b;
 }
 
 blockquote p {
     margin: 0.8em 0;
     font-style: italic;
+    font-size: 1.5em;
 }
 
 blockquote small {
@@ -667,13 +675,14 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    /*font-family: "Open Sans", sans-serif;*/
     color: #fff;
+    font: italic 55px serif;
 }
 
 .page-description {
     margin: 0;
-    font-size: 2rem;
+    font-size: 1.5rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
@@ -748,6 +757,7 @@ margin on the iframe, cause it breaks stuff. */
 
 body:not(.post-template) .post-title {
     font-size: 3.6rem;
+    font-weight: 200;
 }
 
 .post-title a {
@@ -765,12 +775,14 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta {
-    display: block;
+    /*display: block;
     margin: 1.75rem 0 0 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #9EABB3;
+    color: #9EABB3;*/
+    font: italic 1rem serif;
+    margin: 10px 0 40px;
 }
 
 .author-thumb {
@@ -798,11 +810,11 @@ body:not(.post-template) .post-title {
 
 .post-date {
     display: inline-block;
-    margin-left: 8px;
+    /*margin-left: 8px;
     padding-left: 12px;
     border-left: #d5dbde 1px solid;
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 1.3rem;*/
     white-space: nowrap;
 }
 
@@ -886,19 +898,23 @@ body:not(.post-template) .post-title {
 
 /* Keep images centred and within the bounds of the post-width */
 .post-content img {
-    display: block;
+    display: inline-block;
     max-width: 100%;
     height: auto;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     padding: 0.6em 0;
+}
+
+.post-content p {
+    margin-bottom: 1em;
 }
 
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
 .post-content .full-img {
-    width: 126%;
+    /*width: 126%;
     max-width: none;
-    margin: 0 -13%;
+    margin: 0 -13%;*/
 }
 
 /* The author credit area after the post */
@@ -1218,7 +1234,8 @@ body:not(.post-template) .post-title {
 }
 
 .pagination a {
-    color: #9EABB3;
+    /*color: #9EABB3;*/
+    color: #4a4a4a;
     transition: all 0.2s ease;
 }
 
@@ -1227,11 +1244,14 @@ body:not(.post-template) .post-title {
 .newer-posts {
     position: absolute;
     display: inline-block;
-    padding: 0 15px;
-    border: #bfc8cd 1px solid;
+    /*padding: 0 15px;
+    border: #bfc8cd 1px solid;*/
     text-decoration: none;
-    border-radius: 4px;
+    /*border-radius: 4px;*/
     transition: border ease 0.3s;
+    font-style: italic;
+    font-size: 1.2em;
+    border-bottom: 1px solid #4a4a4a;
 }
 
 .older-posts {
@@ -1242,6 +1262,9 @@ body:not(.post-template) .post-title {
     display: inline-block;
     padding: 2px 0;
     min-width: 100px;
+    font-style: italic;
+    font-size: 1.2em;
+    color: #4a4a4a;
 }
 
 .newer-posts {
@@ -1776,6 +1799,28 @@ body:not(.post-template) .post-title {
 }
 
 
+.entry-meta, #copyright, .entry-footer{font:italic 12px serif; color:#888; margin:10px 0}
+.entry-meta a, #copyright a, .entry-footer a{color:#666; border-bottom:1px dotted #ccc; font-style:normal}
+.entry-meta a:hover, #copyright a:hover, .entry-footer a:hover{border-bottom-style:solid}
+
+.more-link a {
+  border-bottom: 1px solid #4a4a4a;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.more-link {
+  color: #4a4a4a;
+  font-style: italic;
+  font-size: 1.8em;
+}
+
+/* navigation */
+.nav { position: fixed; height: 44px; line-height: 44px; width: 100%; top:0; left: 0; border-bottom: 1px solid #eee; background: #fff; padding: 0 20px; z-index: 1; font-size: 14px;font-family: Palatino, Optima, Georgia, serif;}
+.nav-item { padding:0 10px; display: inline-block; color: #000; -webkit-transform: translateZ(0); transform: translateZ(0); }
+.nav .description { font-size: 10px;padding:0 10px; display: inline-block; color: #000; -webkit-transform: translateZ(0); transform: translateZ(0); }
+.nav .logo { color: #4a4a4a;font-weight: bold; }
+.nav .list { float: right;padding-right: 30px; }
+.nav a {text-decoration:none;}
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
