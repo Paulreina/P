@@ -8,7 +8,7 @@ tags:
   - 小米,Openwrt
 ---  
 
-![小米路由器mini](http://img7.chztv.com/2015-0709/mi-wifi-mini.jpg!)  
+![小米路由器mini](http://img.hz.mk/2015-0709/mi-wifi-mini.jpg!)  
 
 从自己原来用的极路由给了丈母娘家用，所以拿回来了小米Mini，想和公司一样无疼番Q，于是开始Root+刷Openwrt。这个教程Google下都有，就不记下来了。
 

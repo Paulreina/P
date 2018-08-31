@@ -8,7 +8,7 @@ tags:
   - 中国移动,宽带
 ---
 
-[![移动宽带](http://img7.chztv.com/2016-0406/China-mobile-Internet.jpg!400px)](http://img7.chztv.com/2016-0406/China-mobile-Internet.jpg)
+[![移动宽带](http://img.hz.mk/2016-0406/China-mobile-Internet.jpg!400px)](http://img.hz.mk/2016-0406/China-mobile-Internet.jpg)
 
 今天终于体验了一下中国移动50M宽带，SS线路使用的是日本Vultr的节点，观看油管居然可以跑满50M。
 

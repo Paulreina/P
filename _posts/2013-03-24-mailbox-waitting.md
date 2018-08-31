@@ -9,7 +9,7 @@ tags:
   - Mailbox
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://s3.chztv.com/blog/2013-0103/mailbox-watting.png" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0103/mailbox-watting.png" alt="" />
 
 Mailbox 是一家神奇的公司以及一款申请的iPhone手机邮件应用程序。Mailbox 采取排队注册的方式，使许多想要尝鲜的用户不得不每天登陆应用查看自己的排名情况，期待早一天能使用上它。这种排队注册营销方式取得了巨大的成功，据了解，现在起码还有100万用户在排队等待使用。
 

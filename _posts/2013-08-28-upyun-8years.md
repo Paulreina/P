@@ -9,7 +9,7 @@ tags:
 ---
 
 
-![又拍云](http://upy.chztv.com/2013-0709/upy8year.jpg)
+![又拍云](http://img.hz.mk/2013-0709/upy8year.jpg)
 
 
 这个夏天，又拍君在大家的陪伴下走过了第8个年头

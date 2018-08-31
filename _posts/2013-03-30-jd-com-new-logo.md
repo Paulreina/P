@@ -10,7 +10,7 @@ tags:
 
   
 
-[![](http://img7.chztv.com/blog/2013-0406/jdlogo.jpg)](http://img7.chztv.com/blog/2013-0406/jdlogo.jpg)    
+[![](http://img.hz.mk/blog/2013-0406/jdlogo.jpg)](http://img.hz.mk/blog/2013-0406/jdlogo.jpg)    
 
 京东商城今天 19 点整正式切换了域名，原有的 360buy.com 变成了 jd.com。随后京东商城发布了新的 LOGO 和吉祥物，原先以蓝色为主调的“360buy”换成了一只可爱的卡通金属狗。
 

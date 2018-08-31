@@ -10,7 +10,7 @@ tags:
 
 
 
-![Firefox OS](http://img.chztv.com/blog/2013-0103/firefox-os.png)
+![Firefox OS](http://img.hz.mk/2013-0103/firefox-os.png)
 
 Mozilla 今天在巴塞罗那世界移动大会（Mobile World Congress 2013）上正式推出 Firefox OS 移动操作系统，并宣布，在原来阿尔卡特、ZTE 中兴的基础上，增加了与 LG 和华为两家手机厂商的合作。
 

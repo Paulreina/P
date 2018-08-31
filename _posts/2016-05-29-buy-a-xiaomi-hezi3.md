@@ -18,4 +18,4 @@ tags:
 
 非常满意！
 
-[![小米盒子3](http://img7.chztv.com/2016-0406/mi-box-3.jpg!400px)](http://img7.chztv.com/2016-0406/mi-box-3.jpg)
+[![小米盒子3](http://img.hz.mk/2016-0406/mi-box-3.jpg!400px)](http://img.hz.mk/2016-0406/mi-box-3.jpg)

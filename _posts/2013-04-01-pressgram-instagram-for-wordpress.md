@@ -8,7 +8,7 @@ tags:
   - Instagram,wordpress
 ---  
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img7.chztv.com/2013-0406/pressgram.png" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/pressgram.png" alt="" />
 
 支持我们，我们不会让那个大块头偷掉我们的照片。
 

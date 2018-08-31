@@ -8,7 +8,7 @@ tags:
   - 儿童节,梦想
 ---
 
-![儿童节快乐](http://img7.chztv.com/2016-0406/Children's-Day-2.jpg)
+![儿童节快乐](http://img.hz.mk/2016-0406/Children's-Day-2.jpg)
 
 今天是儿童节了。
 

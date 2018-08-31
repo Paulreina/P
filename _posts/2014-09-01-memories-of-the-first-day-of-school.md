@@ -7,7 +7,7 @@ Tags: 上学
 ---
 
 
-![](http://img7.chztv.com/2014-0709/hello_september.jpg)
+![](http://img.hz.mk/2014-0709/hello_september.jpg)
 
 今天是9月1日，很多小朋友背着书包开始人生的第一天上学。
 

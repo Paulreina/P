@@ -12,7 +12,7 @@ tags:
   - Mailbox
 --- 
 
-![Mailbox](http://img7.chztv.com/2014-0709/%1Emailbox_osx.jpg)
+![Mailbox](http://img.hz.mk/2014-0709/%1Emailbox_osx.jpg)
 
 在发布四个月之后，Mailbox 的 OS X 测试版本今天终于向外界开放，感兴趣的用户可以直接前往[官网](http://www.mailboxapp.com/#download)下载安装包，不过你还需要申请一个 “betacoin” 来运行它。 
  

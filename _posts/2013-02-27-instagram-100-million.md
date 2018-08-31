@@ -10,7 +10,7 @@ tags:
 
 
 
-![Instagram活跃用户数超过1亿](http://img7.chztv.com/blog/2013-0103/instagram-100000000.jpg)
+![Instagram活跃用户数超过1亿](http://img.hz.mk/2013-0103/instagram-100000000.jpg)
 
 Instagram 今天在官方博客中公布了月活跃用户数，这一数字已经超过了 1 亿人。此前 Instagram 一直都没有对外公布具体用户数量，直到不久前因为修改用户协议一事在用户群中造成极大的不良影响，之后有不少报告称很多用户开始弃用 Instagram。为此 Instagram改回了之前的用户协议，并开始定期发布活跃用户数量，以此来证明它还是图片社交的霸主。
 

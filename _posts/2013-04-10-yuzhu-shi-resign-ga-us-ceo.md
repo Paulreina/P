@@ -8,7 +8,7 @@ tags:
   - 史玉柱,巨人网络
 ---  
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img7.chztv.com/2013-0406/syz.jpg" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/syz.jpg" alt="" />
 
 <a href="http://www.ztgame.com/" target="_blank">巨人网络</a>宣布，史玉柱因个人原因将于 4 月 19 日正式辞去 CEO 一职，但将继续保留董事会主席，同时将把主要精力放在慈善事业。<a href="http://tech.163.com/13/0409/21/8S23AGIU000915BF.html" target="_blank">网易科技消息</a>称，史玉柱辞职后，巨人网络将在 4 月 19 日宣布新任 CEO。
 

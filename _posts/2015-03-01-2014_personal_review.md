@@ -36,4 +36,4 @@ tags:
 
 ***2015，希望Nikki健康成长！***
 
-![Nikki](http://img7.chztv.com/2015-0103/2014_preson_review.jpg)
+![Nikki](http://img.hz.mk/2015-0103/2014_preson_review.jpg)

@@ -16,13 +16,13 @@ tags:
 
 今天去提车了。
 
-[![Nikki度假](http://img7.chztv.com/2015-0709/newcar01.jpg!400px)](http://img7.chztv.com/2015-0709/newcar01.jpg)    
+[![Nikki度假](http://img.hz.mk/2015-0709/newcar01.jpg!400px)](http://img.hz.mk/2015-0709/newcar01.jpg)    
 前脸看下，还可以吧
 
-[![Nikki度假](http://img7.chztv.com/2015-0709/newcar02.jpg!400px)](http://img7.chztv.com/2015-0709/newcar02.jpg)    
+[![Nikki度假](http://img.hz.mk/2015-0709/newcar02.jpg!400px)](http://img.hz.mk/2015-0709/newcar02.jpg)    
 看下屁股吧
 
-[![Nikki度假](http://img7.chztv.com/2015-0709/newcar03.jpg!400px)](http://img7.chztv.com/2015-0709/newcar03.jpg)    
+[![Nikki度假](http://img.hz.mk/2015-0709/newcar03.jpg!400px)](http://img.hz.mk/2015-0709/newcar03.jpg)    
 轮胎可是17寸的哦，脚还算大吧
 
 配置基本上在这个价位无敌了，说的出来的功能基本上全有了：一键启动、定速巡航、自动空调、后排出风口、真皮座椅、导航、倒车影像……

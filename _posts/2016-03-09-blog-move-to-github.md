@@ -8,7 +8,7 @@ tags:
   - blog,github,jekyll
 ---
 
-![Gitcafe](http://img7.chztv.com/2016-0103/gitcafe.jpg)
+![Gitcafe](http://img.hz.mk/2016-0103/gitcafe.jpg)
 
 自从GitCafe宣布"GitCafe 项目迁移至 Coding.net 公告"后，我可怜的Blog项目都还没正式在Gitcafe安完家就要迁移了。
 

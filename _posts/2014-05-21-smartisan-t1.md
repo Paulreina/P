@@ -12,7 +12,7 @@ tags:
 --- 
 
 
-![锤子T1](http://img7.chztv.com/2014-0406/smartisan_t1.jpg)
+![锤子T1](http://img.hz.mk/2014-0406/smartisan_t1.jpg)
 
 昨天，罗永浩创办的锤子科技在北京国家展览中心召开了锤子科技 2014 年新品发布会，在发布会上“老罗手机”首次正式亮相，该机最终定名为 Smartisan T1。
 

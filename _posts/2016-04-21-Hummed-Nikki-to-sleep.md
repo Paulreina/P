@@ -18,4 +18,4 @@ tags:
 
 嗯，能想像老婆每天日复一日哄女儿睡觉有多艰辛了！
 
-[![Nikki](http://img7.chztv.com/2016-0406/sleep-with-nikki.jpg!400px)](http://img7.chztv.com/2016-0406/sleep-with-nikki.jpg)
+[![Nikki](http://img.hz.mk/2016-0406/sleep-with-nikki.jpg!400px)](http://img.hz.mk/2016-0406/sleep-with-nikki.jpg)

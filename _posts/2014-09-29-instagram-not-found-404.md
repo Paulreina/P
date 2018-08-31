@@ -11,7 +11,7 @@ tags:
 ---  
 
 
-![Instagram失联](http://img7.chztv.com/2014-0709/instagram_off.jpg)
+![Instagram失联](http://img.hz.mk/2014-0709/instagram_off.jpg)
 一觉醒来，你手中的Instagram已经无法正常显示内容了。
 
 从昨天晚上开始就有不少用户发现了这一情况。像Facebook和Twitter的iOS App一样，你仍然能够在苹果App Store中国区内下载到它，但是却无法成功获取内容。事实上，自从它被Facebook收购之后，就有人开始担心它是否会像Facebook一样无法在国内访问，但Instagram似乎很幸运，并没有遇到什么访问困难。直到不久前国内部分Android应用商店因不明原因将其下架的事件发生，Instagram在中国一直算得上顺风顺水。

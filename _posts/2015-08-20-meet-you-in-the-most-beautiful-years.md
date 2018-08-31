@@ -16,5 +16,5 @@ tags:
 
 谢谢你，老婆，你和女儿是我最爱的！
 
-[![最美好的年华](http://img7.chztv.com/2015-0709/meet-u.jpg!400px)](http://img7.chztv.com/2015-0709/meet-u.jpg)    
+[![最美好的年华](http://img.hz.mk/2015-0709/meet-u.jpg!400px)](http://img.hz.mk/2015-0709/meet-u.jpg)    
 

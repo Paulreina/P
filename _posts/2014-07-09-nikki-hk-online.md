@@ -13,7 +13,7 @@ tags:
 --- 
 
 
-![Nikki.hk 上线](http://img7.chztv.com/2014-0709/nikki_on_sae.png)
+![Nikki.hk 上线](http://img.hz.mk/2014-0709/nikki_on_sae.png)
 
 昨天花了点时间，在 SAE 上安了个 WordPress，由于 [Nikki.hk](http://nikki.hk) 没有备案审核，只能走 SAE 的海外域名绑定，云豆流量倍增，于是装了个七牛的 WordPress插件，同步了所有静态资源文件，减少 SAE 的开销并且访问速度也略快点。
 

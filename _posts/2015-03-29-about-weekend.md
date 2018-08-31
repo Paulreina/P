@@ -6,7 +6,7 @@ categories:
   - 生活
 tags:
 ---  
-![image](http://img7.chztv.com/2015-0103/weekend0329.jpg)
+![image](http://img.hz.mk/2015-0103/weekend0329.jpg)
 
 上周单位组织去了农庄采摘蔬菜，这周老婆计划带Nikki去千桃园喝茶。
 

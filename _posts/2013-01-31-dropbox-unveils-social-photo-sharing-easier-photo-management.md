@@ -10,7 +10,7 @@ tags:
 
 
 
-![Dropbox](http://img7.chztv.com/blog/2013-0103/b88d773ef26b3de0515982ab37534d3a.jpg)
+![Dropbox](http://img.hz.mk/2013-0103/b88d773ef26b3de0515982ab37534d3a.jpg)
 
 Dropbox 最近又对产品做了两项改进。其中之一是文件预览，Dropbox 网页版将能支持 PDF，Doc，ppt 的在线预览 (暂不支持 Excel)，会在下个月把这个功能向用户开放。另外一个改进和照片有关，它可以让照片整体按时间序列呈现，而不限于照片所处的文件夹。Dropbox 用户可以勾选出多张照片，直接分享到社交网络，不需要像以往那样重新整理聚合成新文件夹才能分享。
 

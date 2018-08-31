@@ -9,7 +9,7 @@ tags:
   - 王菲
 --- 
 
-![王菲](http://img7.chztv.com/2013-0709/wf&lyp.jpg)
+![王菲](http://img.hz.mk/2013-0709/wf&lyp.jpg)
 
 
 > 因为爱情，不会轻易悲伤，所以一切都是幸福的模样。因为爱情，简单的生长，依然随时可以为你疯狂。因为爱情，怎么会有沧桑，所以我们还是年轻的模样。因为爱情，在那个地方，依然还有人在那里游荡人来人往……
@@ -91,7 +91,7 @@ tags:
 [<img title="王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)" alt="王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)" src="http://s11.sinaimg.cn/mw690/4b71657fgx6CD3JAEYO6a&690" width="550" /> ][93]   
 [<img title="王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)" alt="王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)" src="http://s15.sinaimg.cn/mw600/4b71657fgx6CD3JKSse6e&690" width="550" /> ][94]
 
- [1]: http://img7.chztv.com/2013-0709/wf&lyp.jpg
+ [1]: http://img.hz.mk/2013-0709/wf&lyp.jpg
  [2]: http://s7.sinaimg.cn/mw600/4b71657fgx6CD2QXW9E26&690 "王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)"
  [3]: http://photo.blog.sina.com.cn/showpic.html#blogid=4b71657f0102eba5&url=http://album.sina.com.cn/pic/4b71657fgx6CD2QXW9E26
  [4]: http://s12.sinaimg.cn/mw600/4b71657fgx6CD2RNAv15b&690 "王菲李亚鹏8年婚姻中历历在目的50大恩爱瞬间(图)"

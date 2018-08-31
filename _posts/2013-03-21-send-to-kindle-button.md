@@ -11,7 +11,7 @@ tags:
 
 <p style="text-align: center;">
 
-  <img src="http://img7.chztv.com/blog/2013-0103/send-to-kindle.png" alt="" />
+  <img src="http://img.hz.mk/2013-0103/send-to-kindle.png" alt="" />
 
 </p>
 

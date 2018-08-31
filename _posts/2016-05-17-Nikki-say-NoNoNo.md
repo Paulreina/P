@@ -16,4 +16,4 @@ tags:
 
 期待ing！
 
-[![Niiki说不](http://img7.chztv.com/2016-0406/nikki-say-nonono.jpg!400px)](http://img7.chztv.com/2016-0406/nikki-say-nonono.jpg)
+[![Niiki说不](http://img.hz.mk/2016-0406/nikki-say-nonono.jpg!400px)](http://img.hz.mk/2016-0406/nikki-say-nonono.jpg)

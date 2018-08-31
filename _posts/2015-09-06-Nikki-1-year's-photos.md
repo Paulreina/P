@@ -12,4 +12,4 @@ tags:
 
 先上点数码片，实物图待补。
 
-![周岁照](http://img7.chztv.com/2015-0709/nikki-1year-01.jpg!400px)![周岁照](http://img7.chztv.com/2015-0709/nikki-1year-02.jpg!400px)
+![周岁照](http://img.hz.mk/2015-0709/nikki-1year-01.jpg!400px)![周岁照](http://img.hz.mk/2015-0709/nikki-1year-02.jpg!400px)

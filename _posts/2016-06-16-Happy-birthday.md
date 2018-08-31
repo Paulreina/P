@@ -10,6 +10,6 @@ tags:
 
 Nikki, Happy birthday, may you be happy always！
 
-[![Happy birthday](http://img7.chztv.com/2016-0406/2016-06-16_birthday.jpg!400px)](http://img7.chztv.com/2016-0406/2016-06-16_birthday.jpg)
+[![Happy birthday](http://img.hz.mk/2016-0406/2016-06-16_birthday.jpg!400px)](http://img.hz.mk/2016-0406/2016-06-16_birthday.jpg)
 
-[![nikki's birthday](http://img7.chztv.com/2016-0406/nikki-birthday.jpg!400px)](http://img7.chztv.com/2016-0406/nikki-birthday.jpg)
+[![nikki's birthday](http://img.hz.mk/2016-0406/nikki-birthday.jpg!400px)](http://img.hz.mk/2016-0406/nikki-birthday.jpg)

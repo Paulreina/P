@@ -8,7 +8,7 @@ tags:
   - Markdown
 --- 
 
-![Markdown](http://img7.chztv.com/2014-0103/mdmas2.jpg)
+![Markdown](http://img.hz.mk/2014-0103/mdmas2.jpg)
 
 早就听说Markdown，但一直到最近在MAC上开始使用 [Mou](http://mouapp.com/) 才算是略有了解。 上个月自己搞的一个小站 [浮云Fuyun](http://www.fuyun.cf) 默认就是使用Markdown。 今天给自己的Blog也安装的Markdown插件，试用一下，这篇就是用WP自带的后台使用Markdown撰写。
 

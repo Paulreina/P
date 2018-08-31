@@ -14,4 +14,4 @@ tags:
 
 过了二天，女儿好转，老婆大人病倒了……也发烧到了近40度。去医院一查扁桃体发炎，挂水治疗。
 
-[![Gitcafe Closed](http://img7.chztv.com/2016-0406/haoduanduan.jpg!400px)](http://img7.chztv.com/2016-0406/haoduanduan.jpg)
+[![Gitcafe Closed](http://img.hz.mk/2016-0406/haoduanduan.jpg!400px)](http://img.hz.mk/2016-0406/haoduanduan.jpg)

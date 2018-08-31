@@ -10,7 +10,7 @@ tags:
 
 
 
-![Outlook](http://img7.chztv.com/blog/2013-0103/017e279626a447d42615cbf8588f64d3.png)
+![Outlook](http://img.hz.mk/2013-0103/017e279626a447d42615cbf8588f64d3.png)
 
 微软今天在其<a href="http://blogs.office.com/b/microsoft-outlook/archive/2013/02/18/outlook-com-leaves-preview-as-fastest-growing-email-service.aspx" target="_blank">官方博客宣布</a>，推出 6 个月后，其 Outlook.com 邮箱的活跃用户已达 6000 万。而对于 3.6 亿的 Hotmail 用户，微软打算在今年夏季之前完成全部的转移。
 

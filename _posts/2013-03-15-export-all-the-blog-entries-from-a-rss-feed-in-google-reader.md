@@ -10,7 +10,7 @@ tags:
 
 Google Reader 将于 7 月 1 号关闭的消息已经铺天盖地，微博，Twitter 上<a href="http://e.weibo.com/1750070171/znmt2yTJa" target="_blank">#寻找Google Reader替代品#</a> 还没有很好的结论，我们还在关注跟进。
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img7.chztv.com/blog/2013-0103/gr-out.jpg" alt="" width="669" height="300" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0103/gr-out.jpg" alt="" width="669" height="300" />
 
 从 Google Reader 导出数据不仅仅是订阅列表，更重要的是订阅的文章内容，比如 GR 上的加星收藏（Google 提供的<a href="https://www.google.com/takeout/#custom:reader" target="_blank">数据导出功能</a>，可以导出 GR 的笔记和加星文章，不过都是 json 格式数据，非技术人员无法直接查看）；还有很多人写过 BSP 或独立博客（虽然很长时间没更新，甚至忘记了），如果你或者其他人在 GR 上订阅过自己的博客，那么 GR 上会有你的文章内容备份，如何导出文章内容是更紧要的。使用 Google Reader API，你可以下载某个 Feed 订阅的全部内容。
 
@@ -40,4 +40,4 @@ Google Reader 将于 7 月 1 号关闭的消息已经铺天盖地，微博，Twi
 
 草木： 翻页的参数 c=xxx 是要用上面那个地址所得到的 XML 里 gr:continuation 里的那串字符。
 
-[1]: http://img7.chztv.com/blog/2013-0103/gr-temp1.png
+[1]: http://img.hz.mk/2013-0103/gr-temp1.png

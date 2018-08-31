@@ -9,7 +9,7 @@ tags:
 
 
 
-![Raspberry](http://img.chztv.com/blog/2013-0103/Raspberry-Pi.jpg)
+![Raspberry](http://img.hz.mk/2013-0103/Raspberry-Pi.jpg)
 
 做 Raspberry Pi 的人知道他们想到了一个非常棒的 idea，但是他们可能没想到他们能有多成功。Raspberry Pi Foundation 今天庆祝他们一岁生日，并宣布已卖出了 100 万部设备。
 

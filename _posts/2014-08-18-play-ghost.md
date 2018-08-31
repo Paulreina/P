@@ -11,7 +11,7 @@ tags:
   - Node.js
 --- 
 
-![Ghost博客](http://img7.chztv.com/2014-0709/tryghost.jpg)
+![Ghost博客](http://img.hz.mk/2014-0709/tryghost.jpg)
 
 和同事一起合租了一个 <[digitalocean.com](http://www.digitalocean.com)> 的VPS。以前自己的VPS打算最近就停止续费，主要的几个Blog相继迁往SAE等处。
 

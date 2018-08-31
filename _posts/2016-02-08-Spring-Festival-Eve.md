@@ -8,7 +8,7 @@ tags:
   - 生活,Nikki
 ---
 
-![2016春节](http://img7.chztv.com/2016-0103/SpringFestivalEve.jpg)
+![2016春节](http://img.hz.mk/2016-0103/SpringFestivalEve.jpg)
 
 转眼又是一年过去了，Nikki又长大了一岁。
 

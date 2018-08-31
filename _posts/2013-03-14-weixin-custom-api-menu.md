@@ -10,7 +10,7 @@ tags:
 
 <p style="text-align: center;">
 
-  <img src="http://img7.chztv.com/blog/2013-0103/weixin-menu.jpg" alt="" />
+  <img src="http://img.hz.mk/2013-0103/weixin-menu.jpg" alt="" />
 
 </p>
 
@@ -18,7 +18,7 @@ tags:
 
 <p style="text-align: center;">
 
-  <img src="http://img7.chztv.com/blog/2013-0103/weixin-menu2.jpg" alt="" />
+  <img src="http://img.hz.mk/2013-0103/weixin-menu2.jpg" alt="" />
 
 </p>
 

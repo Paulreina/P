@@ -10,7 +10,7 @@ tags:
 
   
 
-![image](http://img7.chztv.com/2015-0709/iCloud.jpg)
+![image](http://img.hz.mk/2015-0709/iCloud.jpg)
 
 随着这大半年经常用iPhone拍视频，iCloud的免费5G空间马上就用光光了，照片和视频都不能同步了。:(
 

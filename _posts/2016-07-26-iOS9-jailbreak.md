@@ -22,4 +22,4 @@ tags:
 
 先试用几天，如果5S正常，就可以不用随身带也能收到短信了。
 
-![iOS9.3.3越狱](http://img.chztv.com/2016-0709/jbios933.png)
+![iOS9.3.3越狱](http://img.hz.mk/2016-0709/jbios933.png)

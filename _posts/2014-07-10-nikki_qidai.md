@@ -10,6 +10,6 @@ tags:
   - nikki
 ---  
 
-![Nikki's 脐带](http://img7.chztv.com/2014-0709/nikki_qidai.jpg)
+![Nikki's 脐带](http://img.hz.mk/2014-0709/nikki_qidai.jpg)
 
 昨天回到家，听LD说Nikki的脐带终于掉了，历时23天，特止发文留念！

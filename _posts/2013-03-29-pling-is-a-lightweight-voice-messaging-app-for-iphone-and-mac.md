@@ -8,7 +8,7 @@ tags:
 - app, iPhone
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://s3.chztv.com/blog/2013-0406/pling.png" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/pling.png" alt="" />
 
 Pling 是一款跨Mac和iPhone的语音消息应用，目前只能在 Mac/iPhone 端给联系人发送语音消息，由De-De (Design-Develop) 公司推出。
 
@@ -16,11 +16,11 @@ Pling 是一款跨Mac和iPhone的语音消息应用，目前只能在 Mac/iPhone
 
 Mac 端：  
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://s3.chztv.com/blog/2013-0406/pling-mac.png" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/pling-mac.png" alt="" />
 
 iPhone 端：  
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://s3.chztv.com/blog/2013-0406/pling-iphone.png" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/pling-iphone.png" alt="" />
 
 另外，发送语音消息的对象也不一定要是 Pling 用户，你可以输入任何联系人的电邮地址，语音消息便会以邮件的形式发送出去。
 

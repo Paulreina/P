@@ -8,7 +8,7 @@ tags:
   - 旅游,生活
 ---
 
-![美发](http://img7.chztv.com/2015-0709/meifa.jpg)
+![美发](http://img.hz.mk/2015-0709/meifa.jpg)
 
 *(图片为示意，非本人)*
 

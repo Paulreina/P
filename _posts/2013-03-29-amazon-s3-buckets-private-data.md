@@ -8,7 +8,7 @@ tags:
   - amazon, 亚马逊
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://s3.chztv.com/blog/2013-0406/Amazon-S3-buckets-private-data.jpg" alt="" width="398" height="329" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/Amazon-S3-buckets-private-data.jpg" alt="" width="398" height="329" />
 
 亚马逊云的简单存储服务&ldquo;Amazon Simple Storage Service&rdquo;（S3）有很多企业和开发者在使用，却不重视存储于云中文件的安全。  
 

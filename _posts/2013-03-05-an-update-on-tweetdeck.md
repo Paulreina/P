@@ -9,7 +9,7 @@ tags:
 
 
 
-![TweetDeck by Twitter](http://img7.chztv.com/blog/2013-0103/tweetdeck.png)
+![TweetDeck by Twitter](http://img.hz.mk/2013-0103/tweetdeck.png)
 
 在对开发 Twitter 客户端的第三方开发者做出各种限制之后，Twitter 开始把注意力转向内部，宣布将停止 Android 版、iOS 版以及 Adobe Air 版的 TweetDeck 应用。这些应用将从 5 月份开始从各自应用商店下架，之后将不能再使用。
 

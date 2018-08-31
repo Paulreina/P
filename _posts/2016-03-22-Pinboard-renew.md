@@ -12,4 +12,4 @@ tags:
 
 客户端推荐：Shiori （OS X）
 
-![Pinboard](http://img7.chztv.com/2016-0103/pinboard-renew.jpg)
+![Pinboard](http://img.hz.mk/2016-0103/pinboard-renew.jpg)

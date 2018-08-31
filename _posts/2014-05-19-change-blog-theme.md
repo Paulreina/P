@@ -12,7 +12,7 @@ tags:
   - 主题
 --- 
 
-![新主题](http://img7.chztv.com/2014-0406/hemingway-wordpress-theme.png)
+![新主题](http://img.hz.mk/2014-0406/hemingway-wordpress-theme.png)
 
 不记得在哪个高人的blog上看到的，不过这个新主题还是挺不错的，全名是[Hemingway WordPress Theme](http://www.andersnoren.se/teman/hemingway-wordpress-theme/),作者免费提供下载。
 

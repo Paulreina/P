@@ -11,7 +11,7 @@ tags:
 
 <p style="text-align: center;">
 
-  <img src="http://s3.chztv.com/blog/2013-0103/wechat50.jpg" alt="" />
+  <img src="http://img.hz.mk/2013-0103/wechat50.jpg" alt="" />
 
 </p>
 

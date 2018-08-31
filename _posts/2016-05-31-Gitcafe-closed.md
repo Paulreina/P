@@ -14,4 +14,4 @@ GitCafe 今天正式关闭了。
 
 目前本人的Blog已经全部迁移到了Github！
 
-[![Gitcafe Closed](http://img7.chztv.com/2016-0406/gitcafe.jpg!400px)](http://img7.chztv.com/2016-0406/gitcafe.jpg)
+[![Gitcafe Closed](http://img.hz.mk/2016-0406/gitcafe.jpg!400px)](http://img.hz.mk/2016-0406/gitcafe.jpg)

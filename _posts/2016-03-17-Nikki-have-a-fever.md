@@ -14,4 +14,4 @@ tags:
 
 特此纪录！
 
-[![Nikki发烧了](http://img7.chztv.com/2016-0103/Nikki-have-a-fever.jpg!400px)](http://img7.chztv.com/2016-0103/Nikki-have-a-fever.jpg)
+[![Nikki发烧了](http://img.hz.mk/2016-0103/Nikki-have-a-fever.jpg!400px)](http://img.hz.mk/2016-0103/Nikki-have-a-fever.jpg)

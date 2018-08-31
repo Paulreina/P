@@ -8,7 +8,7 @@ categories:
   - 生活
 --- 
 
-![满月Sugar设计](http://chzimg.qiniudn.com/2014-0709/nikki_sugar.jpg)
+![满月Sugar设计](http://img.hz.mk/2014-0709/nikki_sugar.jpg)
 
 下午。刚好忙完一阵，休息一下。不知道你现在干嘛，是不是妈妈在给你洗澡或者吃奶？
 

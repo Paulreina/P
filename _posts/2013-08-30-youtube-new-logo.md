@@ -10,7 +10,7 @@ tags:
 --- 
 
 
-![YouTube](http://upy.chztv.com/2013-0709/youtube-newlogo.jpg)
+![YouTube](http://img.hz.mk/2013-0709/youtube-newlogo.jpg)
 
 
 YouTube是世界上最大的视频分享网站，早期公司总部位于加利福尼亚州的圣布里诺。公司于2005年2月15日注册，由台湾裔美籍华人陈士骏等人创立，网站的口号为&ldquo;Broadcast Yourself&rdquo;（表现你自己），网站的名称和标志皆是自早期电视所使用的阴极射线管发想而成。2006年11月，Google公司以16.5亿美元收购了YouTube。
@@ -19,6 +19,6 @@ YouTube是世界上最大的视频分享网站，早期公司总部位于加利�
 
 <!--more-->
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://upy.chztv.com/2013-0709/youtube-facebook.jpg" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0709/youtube-facebook.jpg" alt="" />
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://upy.chztv.com/2013-0709/youtube-twitter.jpg" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0709/youtube-twitter.jpg" alt="" />

@@ -10,7 +10,7 @@ tags:
 
 <p style="text-align: center;">
 
-  <img src="http://s3.chztv.com/blog/2013-0406/facebook-android-phone.png" alt="" />
+  <img src="http://img.hz.mk/2013-0406/facebook-android-phone.png" alt="" />
 
 </p>
 

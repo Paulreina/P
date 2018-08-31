@@ -8,7 +8,7 @@ tags:
   - dropbox
 ---  
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img7.chztv.com/2013-0406/dropbox-chs.png" alt="" width="680" height="343" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://img.hz.mk/2013-0406/dropbox-chs.png" alt="" width="680" height="343" />
 
 免费文件网络同步服务提供商<a href="https://blog.dropbox.com/2013/04/dropbox-now-speaks-six-more-languages/" target="_blank">Dropbox</a>今天在其博客上宣布为其服务新增六种语言，包括中文简体、中文繁体、俄语、波兰语、印度尼西亚语以及马来西亚文的支持。
 
