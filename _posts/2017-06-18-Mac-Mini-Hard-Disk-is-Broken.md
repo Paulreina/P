@@ -18,6 +18,6 @@ tags:
 
 **感受**：Apple的[TimeMachin](https://support.apple.com/zh-cn/HT201250)真的太好用了，如果没有这功能，那会是一种什么样的体验。有了TM，真的换个硬盘后，一切都和原来一样。
 
-![新入手的240G SSD](http://img.hz.mk/2017-0406/macmini01.jpg!400px)
+![新入手的240G SSD](https://imgs.gq/2017-0406/macmini01.jpg)
 
-![MacMini拆机喽](http://img.hz.mk/2017-0406/macmini02.jpg!400px)
+![MacMini拆机喽](https://imgs.gq/2017-0406/macmini02.jpg)
