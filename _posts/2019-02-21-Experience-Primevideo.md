@@ -8,7 +8,7 @@ tags:
   - Primevideo
 ---
 
-![Primevideo](https://imgs.gq/2019-0103/Primevideo.jpg)
+![Primevideo](https://imgs.paulreina.com/2019-0103/Primevideo.jpg)
 
 今天偶然在某个电报频道看到有Primevideo的体验账号，于是入了一个体验一下。
 

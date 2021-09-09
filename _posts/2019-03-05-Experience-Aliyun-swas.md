@@ -14,4 +14,4 @@ tags:
 
 折腾大半天，把PR的Blog和个人Blog的图床都给配置好了，也上了SSL证书，目测没啥问题。
 
-![阿里云轻量服务器](https://imgs.gq/2019-0103/aliyun-swas.jpg)
+![阿里云轻量服务器](https://imgs.paulreina.com/2019-0103/aliyun-swas.jpg)
