@@ -14,4 +14,4 @@ tags:
 
 感觉女儿去乐高的兴趣不是特别大，基本上还是不爱好玩积木啊……
 
-![乐高活动](https://imgs.gq/2017-0406/lego.jpg)
+![乐高活动](http://imgs.paulreina.com/2017-0406/lego.jpg)

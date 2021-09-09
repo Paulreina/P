@@ -14,4 +14,4 @@ tags:
 
 今天早上，Reina告诉我一个好消息，女儿终于退烧了。☺️☺️☺️
 
-![Nikki生病了](http://img.hz.mk/2016-1012/065247.jpg!400px)
+![Nikki生病了](http://imgs.paulreina.com/2016-1012/065247.jpg)
